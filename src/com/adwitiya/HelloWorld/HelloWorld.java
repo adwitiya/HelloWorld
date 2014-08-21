@@ -7,8 +7,7 @@ import java.util.*;
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Enter a number yo: ");
-
+        System.out.println("Enter a number biatch!!! :");
         Scanner input=new Scanner(System.in);
         int s=input.nextInt();
 
